@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #0b0b0b;
+  color: #fff;
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+  color: #00fefe;
+  text-shadow: 0 0 15px #00fefe, 0 0 30px #00bebe;
+}
+
+.add-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 40px;
+}
+
+.add-form input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  width: 180px;
+  background: #111;
+  color: #00fefe;
+}
+
+.add-form button {
+  background-color: #00fefe;
+  color: #0a0a0a;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.add-form button:hover {
+  background-color: #00d4d4;
+}
+
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

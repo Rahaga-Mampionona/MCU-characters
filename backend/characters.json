@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "realName": "Tony Stark",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Captain America",
+      "realName": "Steve Rogers",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/91/CaptainAmerica109.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "realName": "Thor Odinson",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Thor_Dark_World_poster.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Black Widow",
+      "realName": "Natasha Romanoff",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Black_Widow_poster.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hulk",
+      "realName": "Bruce Banner",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_poster.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hawkeye",
+      "realName": "Clint Barton",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Hawkeye_%28Clint_Barton%29.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Doctor Strange",
+      "realName": "Stephen Strange",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Spider-Man",
+      "realName": "Peter Parker",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_No_Way_Home_poster.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Black Panther",
+      "realName": "T'Challa",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_poster.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Scarlet Witch",
+      "realName": "Wanda Maximoff",
+      "universe": "MCU",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Scarlet_Witch_poster.jpg"
+    },
+    {
+      "id": 1755277306861,
+      "name": "RG69",
+      "realName": "Rahaga Mampionona ",
+      "universe": "Earth 2025"
+    }
+  ]
+}
