@@ -19,7 +19,7 @@ app.post("/characters", (req, res) => {
   let data = JSON.parse(fs.readFileSync(dataFile, "utf-8"));
 
   const newCharacter = {
-    id: Date.now(),
+    id: data.characters.length + 1,
     name,
     realName,
     universe
